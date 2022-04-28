@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 Меня зовут Артур, я разработчик С++
+---
+Я выпусник курса "Разработчик С++" Яндекс.Практикума
+#---
+Стек:
+#---
+Мое резюме - https://hh.ru/resume/e4ca8c22ff09c7b44b0039ed1f6c4f55616367
+Хабр.Карьера - https://career.habr.com/shadow_child
+
 
 <!--
 **evd0903/evd0903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
