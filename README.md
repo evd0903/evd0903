@@ -2,6 +2,7 @@
 --- 
 #### Я выпусник курса "Разработчик С++" Яндекс.Практикума 
 #### Стек:
+C++17(20), MS VS, GCC, Clang, Git, Cmake, protobuf, RAII
 Мое резюме - https://hh.ru/resume/e4ca8c22ff09c7b44b0039ed1f6c4f55616367
 
 Хабр.Карьера - https://career.habr.com/shadow_child
